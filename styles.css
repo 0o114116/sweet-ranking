@@ -1,7 +1,14 @@
 * {
-    padding: 0;
-    maring: 0;
+    padding: 0 !important;
+    maring: 0 !important;
+    box-sizing: border-box;
 }
+
+body, html {
+  height: 100% !important;  
+};
+
+
 
 header {
     background-color: #EAECCC;
