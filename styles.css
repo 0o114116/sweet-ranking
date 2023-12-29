@@ -1,13 +1,11 @@
-html, body {
+* {
     padding: 0;
     maring: 0;
 }
 
 header {
     background-color: #EAECCC;
-    margin: 0;
     padding: 20px;
-    width: 100%;
 }
 
 header h1 {
