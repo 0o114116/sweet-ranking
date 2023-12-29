@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 html, body {
     padding: 0;
     maring: 0;
@@ -8,7 +12,6 @@ header {
     background-color: #EAECCC;
     margin: 0;
     padding: 20px;
-    box-sizing: border-box;
     width: 100%;
 }
 
