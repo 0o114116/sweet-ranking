@@ -7,6 +7,9 @@ html, body {
 header {
     background-color: #EAECCC;
     paddinbg: 20px;
+    box-sizing: border-box;
+    width: 100vh;
+    height: 100vh;
 }
 
 header h1 {
