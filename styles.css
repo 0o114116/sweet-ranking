@@ -1,6 +1,12 @@
+body {
+    padding-top: 0px;
+}
+
+
 header {
     background-color: #EAECCC;
     margin: 0;
+    width: 100%;
 }
 
 header h1 {
