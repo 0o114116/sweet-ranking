@@ -1,5 +1,10 @@
+header {
+    background-color: #EAECCC;
+}
 header h1 {
     font-family: "Train One", sans-serif;
+    font-size: xxx-large;
+    font-color: #70694d;
 }
 
 footer {
