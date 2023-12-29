@@ -1,7 +1,10 @@
+header h1 {
+    font-family: "Train-One", sans-serif;
+}
+
 footer {
     position: fixed;
     bottom: 0;
-    background-color: #331d2c;
     height: 50px;
     width: 100%;
     left: 0;
